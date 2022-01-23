@@ -1,6 +1,6 @@
-# Build a Starchart Web API using ASP.NET Core
+# Starchart Web API 
 
-The Build a Starchart Web API using ASP.NET Core Application is designed to allow users to submit and retrieve data about celestial objects. This will cover using EntityFramework to retrieve, add, update, and remove data from an in memory database and making it accessible via a web service.
+Built using ASP.NET Core, this StarChart Web API is designed to allow users to send and receive data about celestial objects.
 
 # Setup the Application
 
